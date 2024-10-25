@@ -1,0 +1,14 @@
+D:\PersonalizedNewsFeed\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\PersonalizedNewsFeed\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\PersonalizedNewsFeed\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\PersonalizedNewsFeed\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\PersonalizedNewsFeed\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\PersonalizedNewsFeed\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalizedNewsFeed\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\PersonalizedNewsFeed\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\PersonalizedNewsFeed\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\PersonalizedNewsFeed\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\PersonalizedNewsFeed\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\PersonalizedNewsFeed\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\PersonalizedNewsFeed\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\PersonalizedNewsFeed\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
